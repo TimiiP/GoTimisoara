@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
 
 <style>
+<head>
 	.view {
     background: url("catedrala.jpg")no-repeat center center !important;
 	background-size:cover !important;
@@ -16,3 +16,4 @@
 <h1>Timi</h1>
 </div>
 </body>
+</html>
