@@ -38,7 +38,7 @@
             <a class="nav-link" href="map.php">Map</a>
           </li>
 		  <li class="nav-item">
-            <a class="nav-link" href="nearby-att">Nearby Attractions</a>
+            <a class="nav-link" href="nearby-att.php">Nearby Attractions</a>
           </li>
         </ul>
       </div>
