@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <style>
+        .view {
+            background: url("Cheile-Nerei.jpg")no-repeat center center !important;
+            background-size:cover !important;
+        }</style>
 
 <title>GoTimisoara - Nearby Attractions</title>
 </head>
