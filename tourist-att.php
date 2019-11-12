@@ -4,7 +4,7 @@
 
 <style>
 	.view {
-    background: url("catedrala.jpg")no-repeat center center !important;
+    background: url("timisoara_1.jpg")no-repeat center center !important;
 	background-size:cover !important;
 }</style>
 <title>GoTimisoara - Tourist Attractions</title>
@@ -13,6 +13,6 @@
 <body>
 <?php include 'header.php';?>
 <div class="container">
-<h1>Timi</h1>
+<h1>Timisoara</h1>
 </div>
 </body>
